@@ -1,0 +1,6 @@
+# https://editorconfig.org/
+# VSCode plugin: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+
+[*.yml]
+indent_style = space
+indent_size = 2

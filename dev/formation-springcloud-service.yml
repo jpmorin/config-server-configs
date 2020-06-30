@@ -9,3 +9,5 @@ config:
       - "Fort orage ce soir et cette nuit."
       - "Il pleut des hamburgers."
       - "Aye! Fais-tu frête?"
+exemple:
+  secret: '{cipher}5bd262d4b2cb0b962e42cf808d51c56e88b9b6fd8672963a335e259b56d60503'

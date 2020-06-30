@@ -10,3 +10,5 @@ config:
       - "Il pleut des hamburgers."
       - "Aye! Fais-tu frête?"
       - "On es-tu ben dans z'un coton ouaté?"
+exemple:
+  chiffrement: '{cipher}e51802b3eb95a8ca3dd6258091810503460dfc2ec307c84cd16a1a44d2580b9a'

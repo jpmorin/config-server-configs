@@ -26,7 +26,6 @@ oauth_token=$(curl  -k \
 
 bearer_token=$(echo ${oauth_token} | jq -r .access_token)
 
-
 # get decrypted config file
 echo "GET ${config_server_uri}/${config_name}" >&2
 response=$(curl -k \
@@ -34,4 +33,4 @@ response=$(curl -k \
                 -X GET ${config_server_uri}/${config_name} \
                 --silent)
 
-echo ${response}
+echo "${response}"

@@ -9,4 +9,4 @@ config:
       - "Fort orage ce soir et cette nuit."
       - "Il pleut des hamburger."
   exemple:
-    secret: '{cipher}6f7fd99e2e7c4157163a6f9b34494c447fb2afc07b7b87075d5c87cfcdfaf427'    
+    secret: '{cipher}6f7fd99e2e7c4157163a6f9b34494c447fb2afc07b7b87075d5c87cfcdfaf427'

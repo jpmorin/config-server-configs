@@ -9,6 +9,6 @@ config:
       - "Fort orage ce soir et cette nuit."
       - "Il pleut des hamburgers."
       - '{cipher}451aae2e02859803f123a498caca4bc6d998b27f3203e1a7c44d8a88ec08195a'
-      - '{cipher}2f94dd89c6e763e20efe292d874a9495547c74bb86233201a6e3eeb6da768dc4'
+      - '{cipher}e4b0a33f7dfcb185bad6b3f5b6e6914b673ad9faa82a53a89445a2f6740d299e'
   exemple:
     secret: '{cipher}451aae2e02859803f123a498caca4bc6d998b27f3203e1a7c44d8a88ec08195a'

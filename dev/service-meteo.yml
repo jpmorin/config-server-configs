@@ -8,5 +8,6 @@ config:
       - "De la pluie en fin de journée."
       - "Fort orage ce soir et cette nuit."
       - "Il pleut des hamburgers."
+      - '{cipher}451aae2e02859803f123a498caca4bc6d998b27f3203e1a7c44d8a88ec08195a'
   exemple:
     secret: '{cipher}451aae2e02859803f123a498caca4bc6d998b27f3203e1a7c44d8a88ec08195a'

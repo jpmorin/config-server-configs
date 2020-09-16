@@ -10,5 +10,6 @@ config:
       - "Il pleut des hamburgers."
       - '{cipher}451aae2e02859803f123a498caca4bc6d998b27f3203e1a7c44d8a88ec08195a'
       - '{cipher}e4b0a33f7dfcb185bad6b3f5b6e6914b673ad9faa82a53a89445a2f6740d299e'
+      - "Bonjour Mickael"
   exemple:
     secret: '{cipher}451aae2e02859803f123a498caca4bc6d998b27f3203e1a7c44d8a88ec08195a'
